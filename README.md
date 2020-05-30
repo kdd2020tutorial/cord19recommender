@@ -144,8 +144,8 @@ Detailed session information can be found as below.
 
 ## Useful links
 
-* Microsoft/Recommenders, url: https://github.com/microsoft/recommenders 
-* Microsoft Academic Graph Application on COVID-19 research, url: https://github.com/microsoft/mag-covid19-research-examples
+* [Microsoft/Recommenders](https://github.com/microsoft/recommenders) 
+* [Microsoft Academic Graph Application on COVID-19 research](https://github.com/microsoft/mag-covid19-research-examples)
 
 
 ## References
