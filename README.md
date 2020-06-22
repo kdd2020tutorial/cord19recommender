@@ -124,8 +124,7 @@ Detailed session information can be found as below.
     metrics, illustrate how models evolve with training interactions, and
     finally analyze the models’ results on our dataset.
 1.  Module IV: Operationalization of KG-based recommender system (40 mins) 
-    1.
-    Lab 4: Explanation of the knowledge-graph based analytics on CORD-19 data
+    1. Lab 4: Explanation of the knowledge-graph based analytics on CORD-19 data
     set (20 min) 
         1.  Walk through the basic tools and software (e.g., Python
     matplotlib) used for visualizing graph structured data. 
