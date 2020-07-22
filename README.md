@@ -150,7 +150,7 @@ Detailed session information can be found as below.
 ## References
 
 1.	Hongwei Wang et al, “DKN: Deep Knowledge-Aware Network for News Recommendation”, ACM WWW 2018.
-2.	Andreas Argyriou, Miguel Fierro, and Le Zhang, “Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems, ACM WWW 2020.
+2.	Andreas Argyriou, Miguel González-Fierro, and Le Zhang, "Microsoft Recommenders: Best Practices for Production-Ready Recommendation Systems", ACM WWW 2020.
 3.	Shen, Zhihong, and Dong, Yuxiao. From Graph to Knowledge Graph Algorithms and Applications. edX, 2019. https://www.edx.org/course/graphsto- knowledgegraphs-3
 4.	Tang, Jie, and Dong, Yuxiao. Representation Learning on Networks: Theories, Algorithms, and Applications. WWW, 2019. https://www2019.thewebconf.org/tutorials.
 5.	Le Zhang et al, “Building production-ready recommendation systems at scale”, KDD 2019. 
