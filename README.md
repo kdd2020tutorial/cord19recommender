@@ -6,7 +6,7 @@
 * Iris Shen, Microsoft
 * Jianxun Lian, Microsoft
 * Chieh-Han Wu, Microsoft
-* Miguel Fierro, Microsoft
+* Miguel González-Fierro, Microsoft
 * Andreas Argyriou, Microsoft
 
 ## Introduction
