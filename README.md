@@ -134,7 +134,10 @@ Detailed session information can be found as below.
 ## Link to the code
 [Link](https://aka.ms/kdd2020-covid-demo) to the code used in the tutorial. 
 
-## Useful links
+## Link to the slides
+[Link](https://recodatasets.blob.core.windows.net/kdd2020/kdd2020tutorial.pptx) to the slides used in the tutorial
+
+## Other useful links
 
 * [Microsoft/Recommenders](https://github.com/microsoft/recommenders) 
 * [Microsoft Academic Graph Application on COVID-19 research](https://github.com/microsoft/mag-covid19-research-examples)
