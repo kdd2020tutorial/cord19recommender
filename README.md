@@ -89,40 +89,30 @@ Detailed session information can be found as below.
     Analyze the author co-citation with the homogeneous network 
 1.  Module III: Applications of Knowledge Graph: Academic Recommender Systems
     (45 min) 
-    1.  Introduction to academic recommendation with knowledge graph (5
+    1. Introduction to academic recommendation with knowledge graph (5
     min) 
-        1.  Discuss article recommendation which is to recommend a list of
-    related paper for researcher to cite or read 
-        1. Introduce author
-    recommendation which is to recommend some people for researchers so that in
-    the future they are likely to co-author. 
-    1.  Introduction to
-    Microsoft/Recommenders (5 min) 
-    1.  In-depth discussion on Recommender
-    algorithms (20 min) 
-        1.  Discuss about applying graph embedding models (Deep
-    Walk [6], GraphSAGE [7]) for learning latent factors for nodes in a graph
-    and thus measuring the similarity of corresponding latent vectors of node
-    relationships for recommendations. 
-        1. Discuss about knowledge-aware
-    recommender model (DKN[1]) that uses node embeddings and document content
-    for recommendations. 
-    1.  Lab 3 – 1: Data preparation (10 min) 
-        1.  Distill
-    knowledge graph from CORD-19 and MAG 
-        1. Entity recognition and linkage 
-        1.
-    Graph embedding preparation 
-        1. Training, validating, and testing data
-    construction 
-    1.  Lab 3 – 2: Evaluation metrics and model comparison (5 min)
-        1.  Introduce theoretical details and practical code implementations of the
-    graph related recommender algorithms. 
-        1. Build recommenders by using the
-    Deep Walk, GraphSAGE, and DKN algorithms. 
-        1.    Introduce evaluation
-    metrics, illustrate how models evolve with training interactions, and
-    finally analyze the models’ results on our dataset.
+        1. Introduce the user2item recommendation which is to recommend related
+           papers for researchers based on their citation history.
+        1. Introduce the item2item recommendation which is given an article, to
+           recommend a list of related papers.
+    1. Introduction to Microsoft/Recommenders (5 min) 
+    1. Introduction on Knowledge-aware Recommender algorithms (5 min) 
+        1. Discuss the knowledge graph data in the scenario of academic
+           recommendations.
+        1. Discuss the Deep Knowledge-aware Network model (DKN[1]) that injects
+           knowledge entities into document content for better recommendations.
+    1. Lab 3 – 1: Data preparation (10 min) 
+        1. Manipulate data from raw datasets.
+        1. Training, validating, and testing data construction.
+    1. Lab 3 – 2: Pretraining embeddings (10 min)
+        1. Pretrain word embeddings.
+        1. Pretrain knowledge graph embeddings.
+    1. Lab 3 – 3: Building knowledge-aware recommendation models (15 min)
+        1. Use DKN to build a User2Item recommendation model.
+        1. User DKN to build a Item2Item recommendation model.
+    1. Lab 3 – 4 (optional): Model evaluation and comparison (5 min)
+        1. Compare variants of DKN: with and without the knowledge entities.
+        1. Compare DKN with a graph-based model:  LightGCN[14].
 1.  Module IV: Operationalization of KG-based recommender system (40 mins) 
     1. Lab 4: Explanation of the knowledge-graph based analytics on CORD-19 data
     set (20 min) 
@@ -140,6 +130,9 @@ Detailed session information can be found as below.
     1.  Discuss about
     future work and discussion 
     1.  Question and answer
+
+## Link to the code
+[Link](https://aka.ms/kdd2020-covid-demo) to the code used in the tutorial. 
 
 ## Useful links
 
@@ -162,4 +155,5 @@ Detailed session information can be found as below.
 11.	Understanding Documentation By Using Semantics, url: https://www.microsoft.com/en-us/research/project/academic/articles/understanding-documents-by-using-semantics/
 12.	Wang, Kuansan, et al. “Microsoft Academic Graph: When Experts Are Not Enough.” Quantitative Science Studies, vol. 1, no. 1, 2020, pp. 396–413.
 13.	Wang, Kuansan, et al. “A Review of Microsoft Academic Services for Science of Science Studies.” Frontiers in Big Data, vol. 2, 2019.
+14. Xiangnan He, et al. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. SIGIR '20
 
