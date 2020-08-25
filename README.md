@@ -60,33 +60,16 @@ Detailed session information can be found as below.
         1. Test
         of the packages, APIs, and scripts for the later lab sessions. 
 1.  Module I: Basics of the dataset CORD-19 and the Knowledge Graph (25 mins) 
-    1.
-    Introduction of the Dataset CORD-19 (5 mins) 
-    1.  Introduction of knowledge
-    graph and Microsoft Academic Graph (MAG) (5 mins) 
-    1.  Lab 1: Link the
-    CORD-19 and MAG via the academic knowledge API (15 mins)
-1.  Module II: Understanding contents with the aid of the Knowledge Graph (40
-    mins) 
-    1.  Introduction of content understanding with knowledge graph (10
-    mins) 
-        1.  Discuss semantically understanding of a given document with text
-    information by using knowledge graph 
-        1. Discuss classification of a given
-    document with knowledge graph 
-    1.  Lab 2 – 1: Document classification (10
-    mins) 
-        1.  Illustrate the general APIs of Language Similarity tool. 
-        1.
-    Demonstrate how to use the Language Similarity tool to tag / classify the
-    document 
-    1.  Introduction of document understanding by using the knowledge
-    graph structural info (10 mins) 
-    1.  Lab 2 – 2: Analytical study of author
-    co-citation network (10 mins) 
-        1.  Create author collaboration graph 
-        1.
-    Analyze the author co-citation with the homogeneous network 
+    1.  Introduction of CORD-19 Dataset and Academic Knowledge Graph - Microsoft Academic Graph (MAG) (10 mins) 
+    1.  Lab 1: Link CORD-19 and MAG (15 mins)
+1.  Module II: Understanding contents with the aid of the Knowledge Graph (40 mins) 
+    1.  Introduction of content understanding with knowledge graph (25 mins) 
+        1.  Knowledge graph (CORD-19 MAG sub-graph) size, schema and how to classify topics of a publication
+        1.  Use LanguageSimilarityAPIs to help understand topics of academic text 
+        1.  Content understanding / Analytics examples
+    1.  Lab 2: Analytics of CORD-19 Sub-graph (15 mins) 
+        1.  Topic distribution
+        1.  Temporal, geo, venue, and team size distribution
 1.  Module III: Applications of Knowledge Graph: Academic Recommender Systems
     (45 min) 
     1. Introduction to academic recommendation with knowledge graph (5
@@ -159,4 +142,9 @@ Detailed session information can be found as below.
 12.	Wang, Kuansan, et al. “Microsoft Academic Graph: When Experts Are Not Enough.” Quantitative Science Studies, vol. 1, no. 1, 2020, pp. 396–413.
 13.	Wang, Kuansan, et al. “A Review of Microsoft Academic Services for Science of Science Studies.” Frontiers in Big Data, vol. 2, 2019.
 14. Xiangnan He, et al. LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation. SIGIR '20
+15. Wang, Lucy Lu, et al. “CORD-19: The Covid-19 Open Research Dataset.” ArXiv Preprint ArXiv:2004.10706, 2020.
+16. Sinha, Arnab, et al. “An Overview of Microsoft Academic Service (MAS) and Applications.” WWW, 2015, pp. 243–246.
+17. Shen, Zhihong, et al. “A Web-Scale System for Scientific Knowledge Exploration.” ACL, 2018, pp. 87–92.
+
+
 
