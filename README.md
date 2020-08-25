@@ -117,6 +117,8 @@ Detailed session information can be found as below.
 ## Link to the code
 [Link](https://aka.ms/kdd2020-covid-demo) to the code used in the tutorial. 
 
+[Instruction](https://github.com/iris-msds/mag-covid19-research-examples/tree/iris-msds-kdd-2020/src/MAG-Samples/KDD2020-HandsOnTutorial) on module I and II.
+
 ## Link to the slides
 [Link](https://recodatasets.blob.core.windows.net/kdd2020/kdd2020tutorial.pptx) to the slides used in the tutorial
 
